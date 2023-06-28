@@ -2,7 +2,7 @@
 A BurpSuite plugin that allows encryption and decryption of messages exchanged between the client and the server that is implemented by the Bersa system.
 
 # Article
-You can learn about the process of creating this plugin HERE.
+You can learn about the process of creating this plugin [HERE](https://alirezakalhor.blogspot.com/2023/06/blog-post_28.html).
 
 # Installation
 1. Visit [Jython Offical Site](https://www.jython.org/download), and download the latest stand alone JAR file.
